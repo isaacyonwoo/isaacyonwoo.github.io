@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "C프로그래밍"
+title                    : "과학지식창고"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이연우"
-description              : "과학지식창"
+description              : "과학지식을 위한 블로그"
 url                      : "https://isaacyonwoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : isaacyonwoo/isaacyonwoo.github.io
