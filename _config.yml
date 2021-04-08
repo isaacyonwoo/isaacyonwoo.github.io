@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이연우"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  avatar: "/assets/images/nature.png"
   bio              : "미래의 과학자"
   location         : "대한민국, 서울"
   email            : "isaacyonwoo@gmail.com"
