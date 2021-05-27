@@ -8,7 +8,7 @@ categories: "형성평가"
 
 
 ### 01. 사주보기
-![saju](/assets/images/if1.jpg)
+![saju](/assets/images/saju.png)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -27,7 +27,7 @@ return 0;
 
 
 ### 02. 3개의 터널 통과
-![tunnul](/assets/images/if2.jpg)
+![tunnel](/assets/images/tunnel.png)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -48,7 +48,7 @@ return 0;
 
 
 ### 03. 이 달은 며칠까지 있을까?
-![callenderl](/assets/images/if3.jpg)
+![callenderl](/assets/images/callenderl.png)
 ~~~c
 #include <stdio.h>
 int main(void)
