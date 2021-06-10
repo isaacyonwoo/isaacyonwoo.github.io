@@ -8,5 +8,11 @@ categories: "유튜브"
 --- 
 
 
-###CERN
+### 01. CERN
+
 {% include video id="4aXgBzFAzDk" provider="youtube" %}
+
+
+### 02. 02. Music
+
+{% include video id="SMemB8qejtk" provider="youtube" %}
