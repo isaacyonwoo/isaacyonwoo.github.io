@@ -13,6 +13,6 @@ categories: "유튜브"
 {% include video id="4aXgBzFAzDk" provider="youtube" %}
 
 
-### 02. 02. Music
+### 02. Music
 
 {% include video id="SMemB8qejtk" provider="youtube" %}
